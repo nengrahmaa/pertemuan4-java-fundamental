@@ -37,7 +37,8 @@ pertemuan4/
 1. Pastikan Java Development Kit (JDK) sudah terpasang di komputer
 2. Clone repository ini:
    ```bash
-   git clone https://github.com/username/pertemuan4-java-fundamental.git
+   git clone https://github.com/nengrahmaa/pertemuan4-java-fundamental.git
+   ```
 3. Masuk ke folder project:
    ```bash
    cd pertemuan4-java-fundamental
