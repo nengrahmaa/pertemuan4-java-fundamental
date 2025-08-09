@@ -1,9 +1,9 @@
 # Java Fundamental - Pertemuan 4
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-![GitHub repo size](https://img.shields.io/github/repo-size/username/pertemuan4-java-fundamental?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/pertemuan4-java-fundamental?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/username/pertemuan4-java-fundamental?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/username/pertemuan4-java-fundamental?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/nengrahmaa/pertemuan4-java-fundamental?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/nengrahmaa/pertemuan4-java-fundamental?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/nengrahmaa/pertemuan4-java-fundamental?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/nengrahmaa/pertemuan4-java-fundamental?style=for-the-badge)
 
 **Materi:**
 - Materi 3: Pengantar OOP, Class, Object, & Access Modifier  
